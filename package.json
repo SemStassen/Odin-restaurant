@@ -1,0 +1,28 @@
+{
+  "name": "odin-restaurant",
+  "version": "1.0.0",
+  "description": "Restaurant page made for the Odin-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SemStassen/Odin-restaurant.git"
+  },
+  "keywords": [
+    "TOP"
+  ],
+  "author": "Sem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SemStassen/Odin-restaurant/issues"
+  },
+  "homepage": "https://github.com/SemStassen/Odin-restaurant#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
