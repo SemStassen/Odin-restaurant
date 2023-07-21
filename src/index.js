@@ -1,3 +1,3 @@
 "use strict";
 
-console.log("this is a log");
+import "./style.css";
